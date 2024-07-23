@@ -1,6 +1,6 @@
 # My bashrc
 
-This is how my terminal prompt looks:
+This is how my terminal prompt looks like:
 
 ![Terminal](https://github.com/C0DER11101/bashrc/blob/bashrc/terminalLook.png)
 
