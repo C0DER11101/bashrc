@@ -10,7 +10,7 @@ And that too from here:
 
 <a href="https://bash-prompt-generator.org/"/>Bash prompt generator</a>
 
-Terminal prompt, when inside a github repo:
+Terminal prompt, when inside a local repo:
 
 ![Terminal](https://github.com/C0DER11101/bashrc/blob/bashrc/terminalLook2.png)
 
