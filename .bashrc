@@ -121,7 +121,6 @@ fi
 
 #=============== User modifications ===============#
 
-#toilet -f smmono12 __grafter__
 echo "Welcome ${USER}"
 alias nv=~/./nvim.appimage
 
